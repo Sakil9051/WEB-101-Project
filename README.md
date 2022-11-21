@@ -16,6 +16,7 @@ This is an e-newspaper published in the Indian state of Karnataka, it brings bre
 
 
 # Team Members:
+- Amar Deep
 - Swapnil Yeutkar
 
 
